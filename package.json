@@ -1,0 +1,10 @@
+{
+  "name": "test-tab",
+  "version": "1",
+  "description": "its mine",
+  "main": "index.js",
+  "repository": "https://github.com/shivadaruri263/test-tab",
+  "author": "shiva",
+  "license": "mit",
+  "private": null
+}
