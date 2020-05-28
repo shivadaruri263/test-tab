@@ -34,3 +34,5 @@ yarn manifest:
 
 Lockfile: 
   No lockfile
+.yarnrc--modules-folder libs
+yarn add jquery
